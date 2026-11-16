@@ -22,7 +22,7 @@
 
 ## 📑 İçindekiler
 
-- 🔎 [Bölüm #01: Kaynak Bulma](#bolum-01) *(Yakında)*
+- 🔎 [Bölüm #01: Kaynak Bulma](#bolum-01)
 - 🕸️ [Bölüm #02: Atıf Haritası](#bolum-02) *(Yakında)*
 - 🎧 [Bölüm #03: Makale Okuma](#bolum-03) *(Yakında)*
 - ✅ [Bölüm #04: Atıf Güvenilirliği](#bolum-04) *(Yakında)*
@@ -37,7 +37,18 @@
 
 ## 🔎 Bölüm #01: Kaynak Bulma
 
-*Yakında eklenecek.*
+| Araç | Ücret | Ne işe yarar? |
+|---|---|---|
+| **[Consensus](https://consensus.app)** | 🟡 | Evet/hayır şeklinde bir araştırma sorusu sorun; cevabı bilimsel makalelerden özetler ve dayandığı çalışmaları gösterir. Ücretsiz planda arama sınırsız, AI analizleri aylık sınırlı. |
+| **[Elicit](https://elicit.com)** | 🟡 | Makaleleri yöntem, örneklem ve bulgularına göre tek tabloda karşılaştırır. Ücretsiz planda arama ve özet sınırsız, raporlar sınırlı. |
+
+**➕ Bonus**
+
+| Araç | Ücret | Ne işe yarar? |
+|---|---|---|
+| **[Semantic Scholar](https://www.semanticscholar.org)** | 🟢 | Allen Institute for AI'ın (Ai2) ücretsiz, AI destekli akademik arama motoru. |
+
+> 💡 AI özetleri bir başlangıç noktasıdır. Bir kaynağı tezinize eklemeden önce makalenin kendisini okuyun.
 
 <a id="bolum-02"></a>
 
